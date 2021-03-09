@@ -19,7 +19,7 @@ app.get("/", (req, res) => {
 });
 
 app.get("/privacy", (req, res) => {
-    res.send("Privacy page");
+    res.send("This is only for practice purpose");
 });
 
 
